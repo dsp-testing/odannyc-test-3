@@ -1,2 +1,4 @@
 CLOJARS_ad588393f6359f2bff1e8c9a12631d3dff257cdfe2b9a0e2149dab5103a2
 yoyoyoyoyo
+secret=adskfh&!~^jhalsdf
+user=danny
